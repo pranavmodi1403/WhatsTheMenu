@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Whats The Menu??</string>
+    <string name="php_url">http://192.168.0.101/whatsthemenu/</string>
+</resources>

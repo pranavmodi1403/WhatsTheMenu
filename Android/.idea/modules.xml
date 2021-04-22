@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mysql.jdbc_5.1.5/Android.com.mysql.jdbc_5.1.5.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mysql.jdbc_5.1.5/Android.com.mysql.jdbc_5.1.5.iml" />
+    </modules>
+  </component>
+</project>
